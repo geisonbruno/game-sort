@@ -7,8 +7,8 @@ Modelo conceitual
 
 - Tecnologias utilizadas
 
-- Back end
-Java
-Spring Boot
+- Back end;
+Java,
+Spring Boot,
 JPA / Hibernate
 Maven
