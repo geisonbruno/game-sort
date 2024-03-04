@@ -1,6 +1,7 @@
 
-Sobre o projeto
+## Sobre o projeto
 
+Back-end utilizando regras de negocio e banco de dados, sistema com lista de jogos. Temos uma feature implementada no back end, para reposicionar a lista de jogos.
 
 Modelo de domínio ListGame-EndtoEnd
 
