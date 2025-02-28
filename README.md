@@ -1,7 +1,7 @@
 
 ## Sobre o projeto
 
-Back-end utilizando regras de negocio e banco de dados, sistema com lista de jogos. Temos uma feature implementada no back end, para reposicionar a lista de jogos.
+O Game-Sort é um sistema de backend desenvolvido para gerenciar listas de jogos. Ele permite adicionar, organizar e reposicionar jogos dentro de listas personalizadas.
 
 Modelo de domínio 
 
